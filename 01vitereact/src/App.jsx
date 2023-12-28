@@ -1,10 +1,15 @@
-
+import First from "./first"
 
 function App() {
  
 
   return (
-    <h1>Initiating project with vite</h1>
+    <>
+      <First/>
+      <h1>Learn react</h1>
+      <p>teat para</p>
+    </>
+    
   )
 }
 
